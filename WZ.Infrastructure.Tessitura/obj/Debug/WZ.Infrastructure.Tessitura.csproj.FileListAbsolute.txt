@@ -1,0 +1,12 @@
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Infrastructure.Tessitura.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Infrastructure.Tessitura.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\obj\Debug\WZ.Infrastructure.Tessitura.csprojResolveAssemblyReference.cache
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\obj\Debug\WZ.Infrastructure.Tessitura.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\obj\Debug\WZ.Infrastructure.Tessitura.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Infrastructure.Tessitura.dll.config
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Domain.Models.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Services.Interfaces.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Domain.Models.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Services.Interfaces.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Repository.Interfaces.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Tessitura\bin\Debug\WZ.Repository.Interfaces.pdb

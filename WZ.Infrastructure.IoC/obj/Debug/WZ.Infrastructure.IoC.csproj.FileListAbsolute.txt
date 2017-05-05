@@ -1,0 +1,11 @@
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Infrastructure.IoC.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Infrastructure.IoC.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Domain.Models.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Services.Interfaces.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Domain.Models.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Services.Interfaces.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\obj\Debug\WZ.Infrastructure.IoC.csprojResolveAssemblyReference.cache
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\obj\Debug\WZ.Infrastructure.IoC.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\obj\Debug\WZ.Infrastructure.IoC.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Repository.Interfaces.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.IoC\bin\Debug\WZ.Repository.Interfaces.pdb

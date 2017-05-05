@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using WZ.Domain.Models;
+
+namespace WZ.Services.Interfaces
+{
+    public interface ISessionService
+    {
+        Session GetNewSession();
+    }
+}

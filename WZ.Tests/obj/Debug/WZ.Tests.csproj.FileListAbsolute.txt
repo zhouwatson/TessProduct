@@ -1,0 +1,6 @@
+C:\Working\GitHub\Products\TessProduct\WZ.Tests\bin\Debug\WZ.Tests.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Tests\bin\Debug\WZ.Tests.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Tests\obj\Debug\WZ.Tests.csprojResolveAssemblyReference.cache
+C:\Working\GitHub\Products\TessProduct\WZ.Tests\obj\Debug\WZ.Tests.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Tests\obj\Debug\WZ.Tests.pdb

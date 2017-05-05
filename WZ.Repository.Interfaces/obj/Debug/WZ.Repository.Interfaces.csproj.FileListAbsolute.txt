@@ -1,0 +1,7 @@
+C:\Working\GitHub\Products\TessProduct\WZ.Repository.Interfaces\bin\Debug\WZ.Repository.Interfaces.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Repository.Interfaces\bin\Debug\WZ.Repository.Interfaces.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Repository.Interfaces\bin\Debug\WZ.Domain.Models.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Repository.Interfaces\bin\Debug\WZ.Domain.Models.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Repository.Interfaces\obj\Debug\WZ.Repository.Interfaces.csprojResolveAssemblyReference.cache
+C:\Working\GitHub\Products\TessProduct\WZ.Repository.Interfaces\obj\Debug\WZ.Repository.Interfaces.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Repository.Interfaces\obj\Debug\WZ.Repository.Interfaces.pdb

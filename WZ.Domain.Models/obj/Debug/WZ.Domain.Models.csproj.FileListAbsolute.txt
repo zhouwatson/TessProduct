@@ -1,0 +1,5 @@
+C:\Working\GitHub\Products\TessProduct\WZ.Domain.Models\bin\Debug\WZ.Domain.Models.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Domain.Models\bin\Debug\WZ.Domain.Models.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Domain.Models\obj\Debug\WZ.Domain.Models.csprojResolveAssemblyReference.cache
+C:\Working\GitHub\Products\TessProduct\WZ.Domain.Models\obj\Debug\WZ.Domain.Models.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Domain.Models\obj\Debug\WZ.Domain.Models.pdb

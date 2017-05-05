@@ -1,0 +1,9 @@
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\bin\Debug\WZ.Infrastructure.Common.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\bin\Debug\WZ.Infrastructure.Common.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\bin\Debug\WZ.Services.Interfaces.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\bin\Debug\WZ.Services.Interfaces.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\obj\Debug\WZ.Infrastructure.Common.csprojResolveAssemblyReference.cache
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\obj\Debug\WZ.Infrastructure.Common.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\obj\Debug\WZ.Infrastructure.Common.pdb
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\bin\Debug\WZ.Domain.Models.dll
+C:\Working\GitHub\Products\TessProduct\WZ.Infrastructure.Common\bin\Debug\WZ.Domain.Models.pdb
